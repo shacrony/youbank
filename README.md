@@ -16,7 +16,9 @@ HTML
 
 CSS
 
-Sass
+Scss
+
+javascript
 
 Bootstrap
 
